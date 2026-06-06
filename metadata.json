@@ -1,0 +1,6 @@
+{
+  "name": "Spreadsheet Editor",
+  "description": "Professional Mobile & Tablet Spreadsheet editor with formula engine, cell styles, multi-tabs, undo/redo, auto-save, and CSV/XLSX import/export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
